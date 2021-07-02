@@ -1,0 +1,12 @@
+{
+	"name": "bradp/clean-elementor",
+	"type": "wordpress-plugin",
+	"description": "A WordPress plugin to set Elementor settings and clean up the dashboard.",
+	"license": "GPL-2.0-or-later",
+	"authors": [
+	  {
+		"name": "Brad Parbs",
+		"email": "brad@bradparbs.com"
+	  }
+	]
+}
