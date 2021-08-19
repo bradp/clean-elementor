@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Clean Elementor
  * Description: Set Elementor settings and clean up the dashboard.
- * Version:     1.0.0
+ * Version:     1.0.1
  * Author:      Brad Parbs
  * Author URI:  https://bradparbs.com/
  * License:     GPLv2
