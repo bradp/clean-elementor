@@ -11,4 +11,4 @@ A WordPress plugin to set Elementor settings and clean up the dashboard.
 
 == Description ==
 
-Set Elemntor settings and clean up the dashboard.
+Set Elementor settings and clean up the dashboard.
