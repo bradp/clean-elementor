@@ -16,7 +16,7 @@ Set Elementor settings and clean up the dashboard.
 
 ### 1.0.1
 
-* Fixed typos
+* Minor cleanup & fixing typos
 
 ### 1.0.0
 
